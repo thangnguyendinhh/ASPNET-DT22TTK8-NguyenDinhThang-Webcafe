@@ -25,5 +25,33 @@
        - Quản lý người dùng
        - Quản lý phân quyền
        - Thống kê
-  
+  3. Demo giao diện
+     - Giao diện người dùng
+       ![front_home](https://github.com/user-attachments/assets/15f14970-1d6f-476f-8714-abea7fbae555)
+
+       - Danh sách sản phẩm
+         ![front_list san pham](https://github.com/user-attachments/assets/a6f4749c-c997-4883-a239-1a2744401bc8)
+
+         - giao diện chi tiết sản phẩm
+           ![front_chi tiet_san_pham](https://github.com/user-attachments/assets/21e27420-cee7-4f8f-8c3c-e5214e037b10)
+
+         - Chức năng giỏ hàng
+           ![Gio hang](https://github.com/user-attachments/assets/282142e1-6191-46e5-a18b-a8f098e26c52)
+
+           - Chức năng edit giỏ hàng
+             ![edit_gio_hang](https://github.com/user-attachments/assets/f41396e2-e520-4bd5-9857-aae5be233b16)
+
+            - Chức năng đặt hàng
+              ![dat hang](https://github.com/user-attachments/assets/d4cdc8d7-e9be-45c5-92b3-5b1004cb1010)
+
+            - Chức năng đăng ký người dùng
+              ![front_dang ky tk](https://github.com/user-attachments/assets/da291c2e-4c99-4ae7-b641-1cfc8aca069e)
+
+            - Chức năng đăng nhập tài khoản người dùng
+              ![dang_nhap](https://github.com/user-attachments/assets/3e7dc278-003d-4c18-9136-1fc9f8df0e57)
+
+              - Chức năng thông tin tài khoản
+                ![front_chi tiết user](https://github.com/user-attachments/assets/f89783c9-b439-4345-99ce-34928311965b)
+
+           
 
