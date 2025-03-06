@@ -25,8 +25,8 @@
        - Quản lý người dùng
        - Quản lý phân quyền
        - Thống kê
-  3. Demo giao diện
-     - Giao diện người dùng
+     ### Demo giao diện
+     1. Giao diện người dùng
        ![front_home](https://github.com/user-attachments/assets/15f14970-1d6f-476f-8714-abea7fbae555)
 
        - Danh sách sản phẩm
@@ -52,6 +52,41 @@
 
               - Chức năng thông tin tài khoản
                 ![front_chi tiết user](https://github.com/user-attachments/assets/f89783c9-b439-4345-99ce-34928311965b)
+
+      2. Giao diện admin
+         - Trang quản lý sản phẩm
+           ![admin_home](https://github.com/user-attachments/assets/912dd30e-a3c5-460c-8b72-43fc4ed89e1e)
+
+         - Trang danh mục sản phẩm
+           ![danh muc san pham](https://github.com/user-attachments/assets/c18c7ece-ebb0-4630-9934-e9c37b4a8ebe)
+
+         - Quản lý đơn hàng
+            ![admin_quan ly don hang](https://github.com/user-attachments/assets/cff82524-26b8-4510-8b43-b53e2f3c4ed2)
+
+         - Quản lý người dùng
+           ![quan ly user](https://github.com/user-attachments/assets/c9177d4a-a154-408b-82b9-b80927e4bced)
+
+         - Quản lý quyền
+          ![quan ly quyen](https://github.com/user-attachments/assets/8f725ebf-3ed8-4ac3-982b-1f515aea7fa9)
+
+         - Thống kê
+           ![admin_thống kê](https://github.com/user-attachments/assets/b033af31-7531-4764-b961-1d932f9321af)
+
+User đăng nhập
+
+user khách khách: 
+email: nguyendinhthang01@tvu.edu.vn
+password: 12345678
+
+User admin:
+email: thangnd261000@tvu-onschool.edu.vn
+password: 12345678
+
+sau khi đăng nhập,để vào trang quản trị, truy cập link: /admin/Home
+
+
+
+
 
            
 
